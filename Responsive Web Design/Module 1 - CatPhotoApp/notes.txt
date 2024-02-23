@@ -77,7 +77,7 @@ Within the second section element, add a new h2 element with the text Cat Lists.
 
 #Step 19
 When you add a lower rank heading element to the page, it's implied that you're starting a new subsection.
-After the last h2 element of the second section element, add an h3 element with this text:
+After the last h2 elemenst of the second section element, add an h3 element with this text:
 Things cats love:
 
 #Step 20
@@ -92,6 +92,10 @@ Use list item (li) elements to create items in a list. Here is an example of lis
 Within the ul element nest three list items to display three things cats love:
 cat nip laser pointers lasagna
 
-
+#Step 22
+After the unordered list, add a new image with an src attribute value set to:
+https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
+And its alt attribute value to:
+A slice of lasagna on a plate.
 
 
