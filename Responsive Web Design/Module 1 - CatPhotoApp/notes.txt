@@ -85,4 +85,9 @@ In previous steps you used an anchor element to turn text into a link. Other typ
 
 Turn the image into a link by surrounding it with necessary element tags. Use https://freecatphotoapp.com as the anchor's href attribute value.
 
+#Step 16
+Before adding any new content, you should make use of a section element to separate the cat photos content from the future content.
+
+Take your h2, comment, p, and anchor (a) elements and nest them in a section element.
+
 
