@@ -74,3 +74,6 @@ You can turn any text into a link, such as the text inside of a p element.
 <p>I think <a href="https://www.freecodecamp.org">freeCodeCamp</a> is great.</p>
 In the text of your p element, turn the words cat photos into a link by adding opening and closing anchor (a) tags around these words. Then set the href attribute to https://freecatphotoapp.com
 
+#Step 13
+Now that you turned the text cat photos inside the p element into a link, you don't need the second link below the p element. Delete the entire anchor element below the p element.
+
