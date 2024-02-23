@@ -93,4 +93,7 @@ Take your h2, comment, p, and anchor (a) elements and nest them in a section ele
 #Step 17
 It is time to add a new section. Add a second section element below the existing section element.
 
+#Step 18
+Within the second section element, add a new h2 element with the text Cat Lists.
+
 
