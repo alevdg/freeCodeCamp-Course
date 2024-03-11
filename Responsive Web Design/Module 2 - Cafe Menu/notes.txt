@@ -156,4 +156,36 @@ Change the width value to 49% for each class to see what happens.
 That worked, but there is still a little space on the right of the price.
 You could keep trying various percentages for the widths. Instead, use the back space key on your keyboard to move the p element with the class price next to the p element with the class flavor so that they are on the same line in the editor. Make sure there is no space between them
 
+#Step 41
+remove the space on the P elements so that they are beside each other (on vscode it wont work because of the prettier extensions, on the browser site freecodecamp it is working)
+
+#Step 42
+Now that you know it works, you can change the remaining article and p elements to match the first set. Start by adding the class item to the other article elements.
+
+#Step 43
+add class price to p elements
+
+#Step 44
+To complete the styling, add the applicable class names flavor and price to all the remaining p elements.
+
+#Step 45
+If you make the width of the page preview smaller, you will notice at some point, some of the text on the left starts wrapping around to the next line. This is because the width of the p elements on the left side can only take up 50% of the space.
+Since you know the prices on the right have significantly fewer characters, change the flavor class width value to be 75% and the price class width value to be 25%.
+
+#Step 46
+You will come back to styling the menu in a few steps, but for now, go ahead and add a second section element below the first for displaying the desserts offered by the cafe.
+
+#Step 47
+Add an h2 element in the new section and give it the text Desserts.
+
+#Step 48
+Add an empty article element under the Desserts heading. Give it a class attribute with the value item.
+
+#Step 49
+Nest two p elements inside your article element. The first one's text should be Donut, and the second's text 1.50. Put both of them on the same line making sure there is no space between them.
+
+#Step 50
+For the two p elements you just added, add dessert as the value of the first p element's class attribute and the value price as the second p element's class attribute.
+
+
 
