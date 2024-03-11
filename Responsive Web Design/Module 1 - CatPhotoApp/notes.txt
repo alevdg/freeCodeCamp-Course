@@ -274,6 +274,11 @@ Turn the existing freeCodeCamp.org text into a link by enclosing it in an anchor
 Notice that everything you've added to the page so far is inside the body element. All page content elements that should be rendered to the page go inside the body element. However, other important information goes inside the head element.
 Add a head element above the body element.
 
+#Step 66
+The title element determines what browsers show in the title bar or tab for the page.
+Add a title element within the head element using the text below:
+CatPhotoApp
+
 
 
 
