@@ -248,4 +248,8 @@ While you won't notice this in the browser, doing this makes it easier for a ser
 Add another checkbox after the one you just added. The id attribute value should be lazy and the name attribute value should be the same as the last checkbox.
 Also add a label element to the right of the new checkbox with the text Lazy. Make sure to associate the label element with the new checkbox using the for attribute.
 
+#Step 59
+Add a final checkbox after the previous one with an id attribute value of energetic. The name attribute should be the same as the previous checkbox.
+Also add a label element to the right of the new checkbox with text Energetic. Make sure to associate the label element with the new checkbox.
+
 
