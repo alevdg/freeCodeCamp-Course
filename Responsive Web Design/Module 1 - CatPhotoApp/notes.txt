@@ -203,5 +203,9 @@ Add the name attribute with the value indoor-outdoor to both radio buttons.
 If you select the Indoor radio button and submit the form, the form data for the button is based on its name and value attributes. Since your radio buttons do not have a value attribute, the form data will include indoor-outdoor=on, which is not useful when you have multiple buttons.
 Add a value attribute to both radio buttons. For convenience, set the button's value attribute to the same value as its id attribute.
 
+#Step 50
+The fieldset element is used to group related inputs and labels together in a web form. fieldset elements are block-level elements, meaning that they appear on a new line.
+Nest the Indoor and Outdoor radio buttons within a fieldset element, and don't forget to indent the radio buttons.
+
 
 
