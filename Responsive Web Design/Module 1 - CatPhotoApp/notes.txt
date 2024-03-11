@@ -142,3 +142,11 @@ It is time to add a new section. Add a third section element below the second se
 #Step 34
 Inside the third section element, add an h2 element with the text:
 Cat Form
+
+#Step 35
+Now you will add a web form to collect information from users.
+After the Cat Form heading, add a form element.
+
+#Step 36
+The action attribute indicates where form data should be sent. For example, <form action="/submit-url"></form> tells the browser that the form data should be sent to the path /submit-url.
+Add an action attribute with the value https://freecatphotoapp.com/submit-cat-photo to the form element.
