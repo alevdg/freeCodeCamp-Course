@@ -214,4 +214,7 @@ Add a legend element with the text Is your cat an indoor or outdoor cat? above b
 #Step 52
 Next, you are going to add some new form input elements, so add another fieldset element directly below the current fieldset element
 
+#Step 53
+Add a legend element with the text What's your cat's personality? inside the second fieldset element.
+
 
