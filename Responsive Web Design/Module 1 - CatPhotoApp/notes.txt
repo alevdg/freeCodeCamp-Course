@@ -135,3 +135,7 @@ After the last img element, add a figcaption element with the text Cats hate oth
 #Step 32
 The strong element is used to indicate that some text is of strong importance or urgent.
 In the figcaption you just added, indicate that hate is of strong importance by wrapping it in a strong element.
+
+#Step 33
+It is time to add a new section. Add a third section element below the second section element.
+
