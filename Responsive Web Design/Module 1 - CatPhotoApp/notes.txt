@@ -188,3 +188,8 @@ Indoor
 label elements are used to help associate the text for an input element with the input element itself (especially for assistive technologies like screen readers). For example, <label><input type="radio"> cat</label> makes it so clicking the word cat also selects the corresponding radio button.
 Nest your radio button inside a label element.
 
+#Step 46
+The id attribute is used to identify specific HTML elements. Each id attribute's value must be unique from all other id values for the entire page.
+Add an id attribute with the value indoor to the radio button. When elements have multiple attributes, the order of the attributes doesn't matter.
+
+
