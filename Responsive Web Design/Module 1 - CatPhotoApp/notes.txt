@@ -110,3 +110,7 @@ Cats love lasagna.
 #Step 25
 Emphasize the word love in the figcaption element by wrapping it in an emphasis em element.
 
+#Step 26
+After the figure element, add another h3 element with the text:
+Top 3 things cats hate:
+
