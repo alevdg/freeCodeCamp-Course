@@ -287,6 +287,12 @@ Add the lang attribute with the value en to the opening html tag to specify that
 All pages should begin with <!DOCTYPE html>. This special string is known as a declaration and ensures the browser tries to meet industry-wide specifications.
 Add this declaration as the first line of the code.
 
+#Step 69
+You can set browser behavior by adding self-closing meta elements in the head. Here's an example:
+<meta attribute="value">
+Inside the head element, nest a meta element with an attribute named charset. Set to the value to utf-8 which tells the browser how to encode characters for the page.
+Note that meta elements are self-closing.
+
 
 
 
