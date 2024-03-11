@@ -4,21 +4,30 @@ p {
   text-align: center;
 }
 
+h1,
+h2 {
+  font-family: Impact, sans-serif;
+}
+
 body {
+  font-family: sans-serif;
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 
 .menu {
+  max-width: 500px;
   width: 80%;
   background-color: burlywood;
   margin: auto;
+  padding: 20px;
 }
 
 .item p {
   display: inline-block;
 }
 
-.flavor {
+.flavor,
+.dessert {
   width: 75%;
   text-align: left;
 }
@@ -26,4 +35,8 @@ body {
 .price {
   width: 25%;
   text-align: right;
+}
+
+.established {
+  font-style: italic;
 }
