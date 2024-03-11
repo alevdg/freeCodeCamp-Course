@@ -163,3 +163,7 @@ Create a text field to get text input from a user by adding the type attribute w
 In order for a form's data to be accessed by the location specified in the action attribute, you must give the text field a name attribute and assign it a value to represent the data being submitted. For example, you could use the following syntax for an email address text field: <input type="text" name="email">.
 Add the name attribute with the value catphotourl to your text field.
 
+#Step 40
+Placeholder text is used to give people a hint about what kind of information to enter into an input. For example, <input type="text" placeholder="Email address">.
+Add the placeholder text cat photo URL to your input element.
+
