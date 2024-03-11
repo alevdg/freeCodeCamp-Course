@@ -222,4 +222,7 @@ Forms commonly use checkboxes for questions that may have more than one answer. 
 Under the legend element you just added, add an input with its type attribute set to checkbox and give it the option of:
 Loving
 
+#Step 55
+Add an id attribute with the value loving to the checkbox input.
+
 
