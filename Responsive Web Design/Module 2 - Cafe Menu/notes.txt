@@ -30,3 +30,45 @@ Create an h2 element in the section element and give it the text Coffee.
 #Step 10
 Up until now, you have been limited regarding the presentation and appearance of the content you create. To start taking control, add a style element within the head element.
 
+#Step 11
+You can add style to an element by specifying it in the style element and setting a property for it like this:
+element {
+ property: value;
+}
+Center your h1 element by setting its text-align property to the value center.
+
+#Step 12
+In the previous step, you used a type selector to style the h1 element. Center the h2 and p elements by adding a new type selector for each one to the existing style element.
+
+#Step 13
+You now have three type selectors with the exact same styling. You can add the same group of styles to many elements by creating a list of selectors. Each selector is separated with commas like this:
+selector1, selector2 {
+  property: value;
+}
+Delete the three existing type selectors and replace them with one selector list that centers the text for the h1, h2, and p elements.
+
+#Step 14
+You have styled three elements by writing CSS inside the style tags. This works, but since there will be many more styles, it's best to put all the styles in a separate file and link to it.
+We have created a separate styles.css file for you and switched the editor view to that file. You can change between files with the tabs at the top of the editor.
+Start by rewriting the styles you have created into the styles.css file. Make sure to exclude the opening and closing style tags.
+
+#Step 15
+Remove <style> in the html
+
+#Step 16
+Now you need to link the styles.css file so the styles will be applied again. Nest a self-closing link element in the head element. Give it a rel attribute value stylesheet and an href attribute value of styles.css.
+
+#Step 17
+For the styling of the page to look similar on mobile as it does on a desktop or laptop, you need to add a meta element with a special content attribute.
+Add the following within the head element:
+
+#Step 18
+The text is centered again so the link to the CSS file is working. Add another style to the file that changes the background-color property to brown for the body element.
+
+#Step 19
+That brown background makes it hard to read the text. Change the body element's background color to be burlywood so it has some color but you are still be able to read the text.
+
+#Step 20
+The div element is used mainly for design layout purposes unlike the other content elements you have used so far. Add a div element inside the body element and then move all the other elements inside the new div.
+Inside the opening div tag, add the id attribute with a value of menu.
+
