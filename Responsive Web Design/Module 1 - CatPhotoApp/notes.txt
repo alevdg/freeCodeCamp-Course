@@ -195,5 +195,9 @@ Add an id attribute with the value indoor to the radio button. When elements hav
 #Step 47
 Create another radio button below the first one. Nest it inside a label element with Outdoor as the label text. Give the radio button an id attribute with outdoor as the value.
 
+#Step 48
+Notice that both radio buttons can be selected at the same time. To make it so selecting one radio button automatically deselects the other, both buttons must have a name attribute with the same value.
+Add the name attribute with the value indoor-outdoor to both radio buttons.
+
 
 
