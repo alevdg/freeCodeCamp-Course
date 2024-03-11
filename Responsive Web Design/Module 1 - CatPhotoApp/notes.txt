@@ -139,3 +139,6 @@ In the figcaption you just added, indicate that hate is of strong importance by 
 #Step 33
 It is time to add a new section. Add a third section element below the second section element.
 
+#Step 34
+Inside the third section element, add an h2 element with the text:
+Cat Form
