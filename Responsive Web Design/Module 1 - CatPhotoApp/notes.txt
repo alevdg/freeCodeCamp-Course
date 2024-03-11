@@ -192,4 +192,8 @@ Nest your radio button inside a label element.
 The id attribute is used to identify specific HTML elements. Each id attribute's value must be unique from all other id values for the entire page.
 Add an id attribute with the value indoor to the radio button. When elements have multiple attributes, the order of the attributes doesn't matter.
 
+#Step 47
+Create another radio button below the first one. Nest it inside a label element with Outdoor as the label text. Give the radio button an id attribute with outdoor as the value.
+
+
 
