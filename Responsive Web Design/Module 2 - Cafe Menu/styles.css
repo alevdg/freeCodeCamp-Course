@@ -25,6 +25,7 @@ hr {
 
 body {
   font-family: sans-serif;
+  padding: 20px;
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 
@@ -38,6 +39,8 @@ body {
 
 .item p {
   display: inline-block;
+  margin: 5px 0px 5px 0px;
+  font-size: 18px;
 }
 
 .flavor,
@@ -53,4 +56,21 @@ body {
 
 .established {
   font-style: italic;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+/* footer */
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: black;
+}
+/* color of the text-link when a user has already visited/clicked the link */
+a:visited {
+  color: gray;
 }
