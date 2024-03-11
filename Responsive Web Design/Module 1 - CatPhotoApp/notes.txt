@@ -217,4 +217,9 @@ Next, you are going to add some new form input elements, so add another fieldset
 #Step 53
 Add a legend element with the text What's your cat's personality? inside the second fieldset element.
 
+#Step 54
+Forms commonly use checkboxes for questions that may have more than one answer. For example, here's a checkbox with the option of tacos: <input type="checkbox"> tacos.
+Under the legend element you just added, add an input with its type attribute set to checkbox and give it the option of:
+Loving
+
 
